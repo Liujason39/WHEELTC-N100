@@ -1,7 +1,9 @@
 # WHEELTC-N100
 Arduino library for IMU(Wheeltec N100)
 
-//example code (IMU_test.ino)
+//just unzip .zip it into arduino's library
+//example code (IMU_test.ino) 
+
 #include "WHEELTEC_N100.h"
 
 #define Hz_to_ms 1000000 // 1 Hz = 1000000 ms
